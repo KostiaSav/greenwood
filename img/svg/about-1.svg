@@ -1,0 +1,10 @@
+<svg viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60.000000" height="60.000000" fill="none">
+	<rect id="Frame" width="60.000000" height="60.000000" x="0.000000" y="0.000000" fill="rgb(255,255,255)" fill-opacity="0" />
+	<path id="Vector" d="M0 0L60 0L60 60L0 60L0 0Z" fill-rule="nonzero" />
+	<path id="Vector" d="M32.5 52.5L15 52.5C13.6739 52.5 12.4021 51.9732 11.4645 51.0355C10.5268 50.0979 10 48.8261 10 47.5L10 17.5C10 16.1739 10.5268 14.9021 11.4645 13.9645C12.4021 13.0268 13.6739 12.5 15 12.5L45 12.5C46.3261 12.5 47.5979 13.0268 48.5355 13.9645C49.4732 14.9021 50 16.1739 50 17.5L50 25" fill-rule="nonzero" stroke="rgb(216,197,164)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.200000" />
+	<path id="Vector" d="M0 0L10 0" stroke="rgb(216,197,164)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.200000" transform="matrix(0,1,-1,0,40,7.5)" />
+	<path id="Vector" d="M0 0L10 0" stroke="rgb(216,197,164)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.200000" transform="matrix(0,1,-1,0,20,7.5)" />
+	<path id="Vector" d="M10 27.5L41.25 27.5" stroke="rgb(216,197,164)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.200000" />
+	<path id="Vector" d="M52.5 37.5L46.25 37.5C45.2554 37.5 44.3016 37.8951 43.5984 38.5984C42.8951 39.3016 42.5 40.2554 42.5 41.25C42.5 42.2446 42.8951 43.1984 43.5984 43.9016C44.3016 44.6049 45.2554 45 46.25 45L48.75 45C49.7446 45 50.6984 45.3951 51.4016 46.0984C52.1049 46.8016 52.5 47.7554 52.5 48.75C52.5 49.7446 52.1049 50.6984 51.4016 51.4016C50.6984 52.1049 49.7446 52.5 48.75 52.5L42.5 52.5" fill-rule="nonzero" stroke="rgb(216,197,164)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.200000" />
+	<path id="Vector" d="M47.5 52.5L47.5 55M47.5 35L47.5 37.5" stroke="rgb(216,197,164)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.200000" />
+</svg>
